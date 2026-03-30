@@ -1,5 +1,5 @@
 import { Container, Sprite } from 'pixi.js'
-function r(t, e) {
+function r(t: any, e: any) {
     return t.depth - e.depth;
 }
 
