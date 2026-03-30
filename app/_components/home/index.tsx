@@ -1,7 +1,7 @@
 "use client";
 
 import { Application, Assets, Sprite, ResizePlugin } from 'pixi.js'
-import Clouds from './_components/home/Utility/clouds';
+import Clouds from './Utility/clouds';
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
